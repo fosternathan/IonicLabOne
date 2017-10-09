@@ -1,6 +1,6 @@
 {
   "name": "$safeappid$",
-  "app_id": "",
-  "v2": true,
-  "typescript": true
+  "app_id": "a16d5157",
+  "integrations": {},
+  "type": "ionic-angular"
 }
